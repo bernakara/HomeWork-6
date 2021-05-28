@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="HW6/Jarx/QLearning.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/HW6/jarbuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/HW6/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=HW6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=HW6/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <file path="/HW6/.project"/>
+        <file path="/HW6/jarbuild.jardesc"/>
+        <folder path="/HW6/target"/>
+        <file path="/HW6/maze.txt.txt"/>
+        <file path="/HW6/pom.xml"/>
+        <folder path="/HW6/resources"/>
+        <folder path="/HW6/src"/>
+        <file path="/HW6/.classpath"/>
+        <file path="/HW6/jarbuilds.jardesc"/>
+        <folder path="/HW6/Jarx"/>
+        <javaElement handleIdentifier="=HW6/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/HW6/manifest"/>
+        <javaElement handleIdentifier="=HW6/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+    </selectedElements>
+</jardesc>

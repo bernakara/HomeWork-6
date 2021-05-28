@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/90534/eclipse-workspace/Jarx/MaxFlowEdmondsKarp.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/HW6/jarbuilds.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/HW6/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=HW6/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=HW6/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=HW6/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/"/>
+        <file path="/HW6/manifest"/>
+        <file path="/HW6/.project"/>
+        <javaElement handleIdentifier="=HW6/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/"/>
+        <folder path="/HW6/target"/>
+        <file path="/HW6/pom.xml"/>
+        <folder path="/HW6/src"/>
+        <file path="/HW6/.classpath"/>
+        <file path="/HW6/jarbuilds.jardesc"/>
+    </selectedElements>
+</jardesc>
